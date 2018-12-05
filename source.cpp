@@ -14,7 +14,7 @@ struct Graduate {
     string name;
     string specializedArea;
     string preferredLanguage;
-    double preferredLanguageFluency;
+    double preferredLanguageFluency; // Decimal from 0 to 1 that describes the Graduate's fluency
 };
 
 /*
